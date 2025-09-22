@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **avinashkrsingh699/avinashkrsingh699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,21 @@ Here are some ideas to get you started:
 
 ###🚀 About Me
 
--🎓 *Engineering Graduate* with a strong analytical mindset and a love for problem-solving.
--📊 Data Enthusiast driven to transform raw datasets into actionable insights that guide strategic decisions.
--🤖 Currently diving deep into *Machine Learning, exploring supervised/unsupervised models and real-world applications*.
--🛠️ Project Portfolio: Showcasing beginner-friendly and evolving data projects on GitHub.
--💡 Skilled in Python, SQL, data cleaning, building interactive dashboards, and storytelling with data to communicate complex findings.
--📐 Strong grounding in *Probability & Statistics, enabling sound experimentation and predictive analysis*.
--💬 Always happy to discuss data analysis techniques, visualization best practices, or career tips in *data science*.
--📬 Contact: *avinashkumarsingh699@gmail.com*
+🎓 *Engineering Graduate* with a strong analytical mindset and a love for problem-solving.
+
+📊 Data Enthusiast driven to transform raw datasets into actionable insights that guide strategic decisions.
+
+🤖 Currently diving deep into *Machine Learning, exploring supervised/unsupervised models and real-world applications*.
+
+🛠️ Project Portfolio: Showcasing beginner-friendly and evolving data projects on GitHub.
+
+💡 Skilled in Python, SQL, data cleaning, building interactive dashboards, and storytelling with data to communicate complex findings.
+
+📐 Strong grounding in *Probability & Statistics, enabling sound experimentation and predictive analysis*.
+
+💬 Always happy to discuss data analysis techniques, visualization best practices, or career tips in *data science*.
+
+📬 Contact: *avinashkumarsingh699@gmail.com*
 
 ---
 
@@ -41,11 +48,16 @@ Here are some ideas to get you started:
 
 ---
 ### ✍ I Write About
--Practical data analysis tips for beginners, helping you start your analytics journey
--Efficient SQL techniques and real-world problem-solving strategies
--Creative approaches to dashboard design and data visualization for clear insights
--Insights on cleaning, transforming, and storytelling with data
--Hands-on guides to turning raw data into actionable decisions 
+Practical data analysis tips for beginners, helping you start your analytics journey
+
+Efficient SQL techniques and real-world problem-solving strategies
+
+Creative approaches to dashboard design and data visualization for clear insights
+
+Insights on cleaning, transforming, and storytelling with data
+
+Hands-on guides to turning raw data into actionable decisions 
+
 ---
 
 ### 📬 Connect with Me
