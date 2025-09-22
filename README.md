@@ -69,7 +69,11 @@ Hands-on guides to turning raw data into actionable decisions
 ---
 
 💡 Exploring data, uncovering insights, and sharpening analytics skills every day!
+
 💡 Turning raw data into actionable insights while leveling up my analytics expertise!
+
 💡 Passionate about exploring datasets and transforming them into strategic decisions!
+
 💡 Mining patterns, learning fast, and delivering insights through data!
+
 💡 Constantly diving into data to discover insights and refine my analytics craft!
